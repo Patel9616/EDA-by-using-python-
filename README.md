@@ -1,2 +1,3 @@
 # EDA-by-using-python-
-First GitHub repository 
+This is my First GitHub repository 
+Author-Riya Patel 
